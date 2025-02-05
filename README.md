@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Govardhan Shemane </h1>
-<p align="center">Full Stack Wizard ⚡ | DSA Gladiator 🏹 </p>
+<h3 align="center">Full Stack Wizard ⚡ | DSA Gladiator 🏹 </h3>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GovardhanShemane&theme=darkhub&margin-w=15&margin-h=15)
 
 
