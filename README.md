@@ -1,5 +1,5 @@
-Hi 👋, I'm Govardhan Shemane
-### 🏆 GitHub Trophies
+<h1 align="center"> Hi 👋, I'm Govardhan Shemane </h1>
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GovardhanShemane&theme=darkhub&margin-w=15&margin-h=15)
 
 
