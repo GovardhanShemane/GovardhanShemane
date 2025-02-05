@@ -12,11 +12,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DyoCzCn5--/c_imagga_scale,f_auto,fl_progressive,h_200,q_auto,w_200/https://res.cloudinary.com/cloudinary/image/upload/w_1000,h_500,c_fill,g_auto/v1636558411/cloudinary-mark-blu_1_w3dbav.png" width="40" height="40" alt="Cloudinary" />
+  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1695307391/logos/cloudinary-logo_nhylok.png" width="40" height="40" alt="Cloudinary" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
 </p>
+
 
 <!--
 **GovardhanShemane/GovardhanShemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
