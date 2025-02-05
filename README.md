@@ -17,6 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
 
 <!--
 **GovardhanShemane/GovardhanShemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
