@@ -1,6 +1,7 @@
 Hi 👋, I'm Govardhan Shemane
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GovardhanShemane&theme=darkhub&margin-w=15&margin-h=15)
+
 
 <!--
 **GovardhanShemane/GovardhanShemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
