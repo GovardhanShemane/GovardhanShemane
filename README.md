@@ -33,7 +33,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=GovardhanShemane&theme=dark)
+
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GovardhanShemane&theme=dark)
+
 
 
 
