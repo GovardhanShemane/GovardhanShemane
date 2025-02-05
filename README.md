@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 -->
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GovardhanShemane&theme=dark) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GovardhanShemane&theme=dark)
+
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/govardhanshemane/)  
