@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats  
+![Govardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GovardhanShemane&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GovardhanShemane&theme=dark)
 
 
 
