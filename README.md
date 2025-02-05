@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 GitHub Stats  
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GovardhanShemane&theme=dark) 
 
 ## 📫 Connect With Me  
